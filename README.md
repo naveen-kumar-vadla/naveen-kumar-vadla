@@ -49,7 +49,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/vadla-naveen-kumar/)
 - 📁 [My Resume](https://drive.google.com/file/d/1jbl7c1G084uykhcGR-_Z5ttqCxfIgeQw/view?usp=sharing) 
-- 🧑‍💻 [Portfolio Website](#) (IN-PROGRESS)
+- 🧑‍💻 [Portfolio Website](https://naveen-kumar-vadla.netlify.app/#)
 - 📧 Email: `vnaveenkumar9705@gmail.com`
 
 ---
